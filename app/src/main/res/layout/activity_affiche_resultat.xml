@@ -41,6 +41,7 @@
         android:background="#FCFCFC"
         android:text="Relancer"
         android:textSize="30dp"
+        android:onClick="relaunch"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
